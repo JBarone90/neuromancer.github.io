@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on The Neuromancer</title>
+    <link>http://localhost:1313/posts/</link>
+    <description>Recent content in Posts on The Neuromancer</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 10 Sep 2024 15:34:14 +0100</lastBuildDate>
+    <atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Contents</title>
+      <link>http://localhost:1313/posts/contents/</link>
+      <pubDate>Tue, 10 Sep 2024 15:34:14 +0100</pubDate>
+      <guid>http://localhost:1313/posts/contents/</guid>
+      <description>&lt;h1 id=&#34;natoque-habitasse-senectus-aenean-viverra-vita&#34;&gt;Natoque habitasse senectus aenean viverra vita&lt;/h1&gt;&#xA;&lt;p&gt;Lorem ipsum dolor sit amet consectetur adipiscing elit, mollis pharetra luctus ultricies ullamcorper urna eleifend massa, sociis torquent tellus a leo et.&lt;/p&gt;&#xA;&lt;p&gt;Libero semper vulputate magna magnis vivamus bibendum egestas donec, malesuada suspendisse luctus commodo convallis fames arcu, nibh mi ultricies lacus cras est eu.&lt;/p&gt;&#xA;&lt;h2 id=&#34;viverra-fames-etiam-interdum-hen&#34;&gt;Viverra fames etiam interdum hen&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;Erat primis semper commodo fames, eros quisque.&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;Sem etiam malesuada ullamcorper aliquam, porta ad rhoncus.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Aws</title>
+      <link>http://localhost:1313/posts/aws/</link>
+      <pubDate>Tue, 10 Sep 2024 15:31:55 +0100</pubDate>
+      <guid>http://localhost:1313/posts/aws/</guid>
+      <description>&lt;h1 id=&#34;fermentum-nisi-lobortis-montes-id-consequat-per-ad-aptent-fringilla-gravid&#34;&gt;Fermentum nisi lobortis montes id consequat per ad aptent fringilla gravid&lt;/h1&gt;&#xA;&lt;p&gt;Lorem ipsum dolor sit amet consectetur adipiscing elit donec libero, aptent suspendisse enim rhoncus turpis duis ultricies praesent, potenti cum ante egestas nulla fringilla gravida dictum. Maecenas vivamus augue etiam pellentesque sagittis sapien molestie, et a diam mauris ligula suspendisse aptent, gravida orci tristique magnis volutpat nulla. Proin vehicula inceptos mi posuere curae bibendum class habitant viverra, urna non sociosqu quis eleifend vulputate sagittis primis nulla, iaculis a sem convallis est rhoncus accumsan conubia.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Hello_world</title>
+      <link>http://localhost:1313/posts/hello-world/</link>
+      <pubDate>Tue, 10 Sep 2024 13:56:25 +0100</pubDate>
+      <guid>http://localhost:1313/posts/hello-world/</guid>
+      <description>&lt;h1 id=&#34;hello-world&#34;&gt;Hello World&lt;/h1&gt;&#xA;&lt;p&gt;This is a &lt;strong&gt;test&lt;/strong&gt;&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

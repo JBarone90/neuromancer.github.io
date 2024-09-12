@@ -1,0 +1,7 @@
+nav a { /* Assuming navigation uses <a> elements */
+    color: black; /* Change to a readable color */
+}
+
+nav a:hover {
+    color: #555; /* Slightly darker on hover */
+}

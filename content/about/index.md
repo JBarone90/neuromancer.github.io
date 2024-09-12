@@ -1,12 +1,22 @@
 ---
 title: "About"
-description: "A few years ago, while visiting or, rather, rummaging about Notre-Dame, the author of this book found, in an obscure nook of one of the towers, the following word, engraved by hand upon the wall: —ANANKE."
-featured_image: "/images/Victor_Hugo-Hunchback.jpg"
+description: ""
+omit_header_text: true
+featured_image: "/images/tribute-moebius.png"
 menu:
   main:
     weight: 1
 ---
 
-{{< figure src="/images/Victor_Hugo-Hunchback.jpg" title="Illustration from Victor Hugo et son temps (1881)" >}}
+## About Me
 
-_The Hunchback of Notre-Dame_ (French: _Notre-Dame de Paris_) is a French Romantic/Gothic novel by Victor Hugo, published in 1831. The original French title refers to Notre Dame Cathedral, on which the story is centered. English translator Frederic Shoberl named the novel The Hunchback of Notre Dame in 1833 because at the time, Gothic novels were more popular than Romance novels in England. The story is set in Paris, France in the Late Middle Ages, during the reign of Louis XI.
+{{< profile-image src="/images/profile.jpeg" alt="Jacopo Barone" >}}
+
+Hi,  
+my name is Jacopo Barone. I work as an analyst and data scientist for the UK government.
+
+Ages ago, I studied psychology and neuroscience. I completed a PhD on neural oscillations in the motor system using Magnetoencephalography (MEG). I currently reside in Cardiff, Wales, but I am originally Italian. I live here happily with my partner and our two goblins.
+
+## What is This Website?
+
+Here, I share my work, insights, and interests. Feel free to explore the content and get in touch if you have any questions or comments.

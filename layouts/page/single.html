@@ -1,0 +1,24 @@
+{{ define "header" }}
+  {{ if eq .Title "About" }}
+    {{ partial "page-header-about.html" . }}
+  {{ else }}
+    {{ partial "page-header.html" . }}
+  {{ end }}
+{{ end }}
+
+{{ define "main" }}
+  <article class="flex-l flex-wrap justify-center mw6 center ph3">
+    <header class="mt4 w-100">
+      {{ if not (eq .Title "About") }}
+        <h1 class="f1 athelas mt3 mb1" style="color: black;">
+          {{ .Title }}
+        </h1>
+      {{ end }}
+      <!-- Other header content -->
+    </header>
+    <div class="nested-copy-line-height lh-copy {{ $.Param "post_content_classes"  | default "serif"}} f4 nested-links {{ $.Param "text_color" | default "mid-gray" }}" style="color: black; max-width: 700px; margin: 0 auto;">
+      {{ .Content }}
+    </div>
+    <!-- Additional content and partials -->
+  </article>
+{{ end }}

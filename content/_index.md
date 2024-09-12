@@ -1,5 +1,5 @@
 ---
-title: "The Neuromancer"
+title: ""
 
 description: ""
 # 1. To ensure Netlify triggers a build on our exampleSite instance, we need to change a file in the exampleSite directory.
@@ -8,4 +8,4 @@ cascade:
   featured_image: "/images/tribute-moebius.png"
 ---
 
-Welcome to my blog with some of my work in progress.
+Welcome to my website with some of my work in progress.

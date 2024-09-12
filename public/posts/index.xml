@@ -6,28 +6,14 @@
     <description>Recent content in Posts on The Neuromancer</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 10 Sep 2024 15:34:14 +0100</lastBuildDate>
+    <lastBuildDate>Sun, 09 Apr 2017 10:58:08 -0400</lastBuildDate>
     <atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Contents</title>
-      <link>http://localhost:1313/posts/contents/</link>
-      <pubDate>Tue, 10 Sep 2024 15:34:14 +0100</pubDate>
-      <guid>http://localhost:1313/posts/contents/</guid>
-      <description>&lt;h1 id=&#34;natoque-habitasse-senectus-aenean-viverra-vita&#34;&gt;Natoque habitasse senectus aenean viverra vita&lt;/h1&gt;&#xA;&lt;p&gt;Lorem ipsum dolor sit amet consectetur adipiscing elit, mollis pharetra luctus ultricies ullamcorper urna eleifend massa, sociis torquent tellus a leo et.&lt;/p&gt;&#xA;&lt;p&gt;Libero semper vulputate magna magnis vivamus bibendum egestas donec, malesuada suspendisse luctus commodo convallis fames arcu, nibh mi ultricies lacus cras est eu.&lt;/p&gt;&#xA;&lt;h2 id=&#34;viverra-fames-etiam-interdum-hen&#34;&gt;Viverra fames etiam interdum hen&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;Erat primis semper commodo fames, eros quisque.&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;Sem etiam malesuada ullamcorper aliquam, porta ad rhoncus.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Aws</title>
-      <link>http://localhost:1313/posts/aws/</link>
-      <pubDate>Tue, 10 Sep 2024 15:31:55 +0100</pubDate>
-      <guid>http://localhost:1313/posts/aws/</guid>
-      <description>&lt;h1 id=&#34;fermentum-nisi-lobortis-montes-id-consequat-per-ad-aptent-fringilla-gravid&#34;&gt;Fermentum nisi lobortis montes id consequat per ad aptent fringilla gravid&lt;/h1&gt;&#xA;&lt;p&gt;Lorem ipsum dolor sit amet consectetur adipiscing elit donec libero, aptent suspendisse enim rhoncus turpis duis ultricies praesent, potenti cum ante egestas nulla fringilla gravida dictum. Maecenas vivamus augue etiam pellentesque sagittis sapien molestie, et a diam mauris ligula suspendisse aptent, gravida orci tristique magnis volutpat nulla. Proin vehicula inceptos mi posuere curae bibendum class habitant viverra, urna non sociosqu quis eleifend vulputate sagittis primis nulla, iaculis a sem convallis est rhoncus accumsan conubia.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Hello_world</title>
-      <link>http://localhost:1313/posts/hello-world/</link>
-      <pubDate>Tue, 10 Sep 2024 13:56:25 +0100</pubDate>
-      <guid>http://localhost:1313/posts/hello-world/</guid>
-      <description>&lt;h1 id=&#34;hello-world&#34;&gt;Hello World&lt;/h1&gt;&#xA;&lt;p&gt;This is a &lt;strong&gt;test&lt;/strong&gt;&lt;/p&gt;</description>
+      <title>Chapter I: The Grand Hall</title>
+      <link>http://localhost:1313/posts/test/</link>
+      <pubDate>Sun, 09 Apr 2017 10:58:08 -0400</pubDate>
+      <guid>http://localhost:1313/posts/test/</guid>
+      <description>&lt;p&gt;Three hundred and forty-eight years, six months, and nineteen days ago&#xA;to-day, the Parisians awoke to the sound of all the bells in the triple&#xA;circuit of the city, the university, and the town ringing a full peal.&lt;/p&gt;&#xA;&lt;p&gt;The sixth of January, 1482, is not, however, a day of which history has&#xA;preserved the memory. There was nothing notable in the event which thus&#xA;set the bells and the bourgeois of Paris in a ferment from early morning.&#xA;It was neither an assault by the Picards nor the Burgundians, nor a hunt&#xA;led along in procession, nor a revolt of scholars in the town of Laas, nor&#xA;an entry of “our much dread lord, monsieur the king,” nor even a pretty&#xA;hanging of male and female thieves by the courts of Paris. Neither was it&#xA;the arrival, so frequent in the fifteenth century, of some plumed and&#xA;bedizened embassy. It was barely two days since the last cavalcade of that&#xA;nature, that of the Flemish ambassadors charged with concluding the&#xA;marriage between the dauphin and Marguerite of Flanders, had made its&#xA;entry into Paris, to the great annoyance of M. le Cardinal de Bourbon,&#xA;who, for the sake of pleasing the king, had been obliged to assume an&#xA;amiable mien towards this whole rustic rabble of Flemish burgomasters, and&#xA;to regale them at his Hôtel de Bourbon, with a very “pretty morality,&#xA;allegorical satire, and farce,” while a driving rain drenched the&#xA;magnificent tapestries at his door.&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>

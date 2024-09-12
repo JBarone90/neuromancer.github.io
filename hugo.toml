@@ -1,20 +1,27 @@
 baseURL = 'https://example.org/'
+# baseURL = 'https://jbarone90.github.io/neuromancer.github.io/'
 languageCode = 'en-us'
 title = 'The Neuromancer'
 theme = 'ananke'
 
 DefaultContentLanguage = "en"
 SectionPagesMenu = "main"
-Paginate = 3 # this is set low for demonstrating with dummy content. Set to a higher number
+Paginate = 6 # this is set low for demonstrating with dummy content. Set to a higher number
 googleAnalytics = ""
 enableRobotsTXT = true
 
 [params]
   text_color = ""
-  author = ""
+  author = "Jacopo Barone"
   favicon = ""
   site_logo = ""
+  custom_css = ["custom.css"]
   description = "The last theme you'll ever need. Maybe."
   # choose a background color from any on this page: https://tachyons.io/docs/themes/skins/ and preface it with "bg-"
-  background_color_class = "bg-black"
   recent_posts_number = 3
+  date_format = "2 January 2006"
+  [[params.ananke_socials]]
+    name = "linkedin"
+    url = "https://www.linkedin.com/in/baronej/"
+    label = "LinkedIn"
+    color = "#0077b5" # LinkedIn blue

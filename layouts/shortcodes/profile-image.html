@@ -1,1 +1,20 @@
-<img src="{{ .Get "src" }}" alt="{{ .Get "alt" }}" class="profile-image">
+<figure class="{{ .Get "class" | default "profile-image" }}">
+    {{- if .Get "link" -}}
+      <a href="{{ .Get "link" }}"{{ with .Get "target" }} target="{{ . }}"{{ end }}{{ with .Get "rel" }} rel="{{ . }}"{{ end }}>
+    {{- end -}}
+  
+    <img src="{{ .Get "src" }}"
+         alt="{{ .Get "alt" | default "Profile image" }}"
+         width="{{ .Get "width" | default "200" }}"
+         height="{{ .Get "height" | default "200" }}"
+         loading="{{ .Get "loading" | default "lazy" }}">
+    
+    {{- if .Get "link" }}</a>{{ end -}}
+  
+    {{- if .Get "caption" -}}
+      <figcaption class="tc f6">
+        {{ .Get "caption" | markdownify }}
+      </figcaption>
+    {{- end -}}
+  </figure>
+  

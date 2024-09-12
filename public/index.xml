@@ -62,7 +62,7 @@
       <link>http://localhost:1313/about/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/about/</guid>
-      <description>&lt;h2 id=&#34;about-me&#34;&gt;About Me&lt;/h2&gt;&#xA;&lt;img src=&#34;http://localhost:1313/images/profile.jpeg&#34; alt=&#34;Jacopo Barone&#34; class=&#34;profile-image&#34;&gt;&#xA;&#xA;&lt;p&gt;Hi,&lt;br&gt;&#xA;my name is Jacopo Barone. I work as an analyst and data scientist for the UK government.&lt;/p&gt;&#xA;&lt;p&gt;Ages ago, I studied psychology and neuroscience. I completed a PhD on neural oscillations in the motor system using Magnetoencephalography (MEG). I currently reside in Cardiff, Wales, but I am originally Italian. I live here happily with my partner and our two goblins.&lt;/p&gt;</description>
+      <description>&lt;h2 id=&#34;about-me&#34;&gt;About Me&lt;/h2&gt;&#xA;&lt;figure class=&#34;profile-image&#34;&gt;&lt;img src=&#34;http://localhost:1313/images/profile.jpeg&#34;&#xA;         alt=&#34;Jacopo Barone&#34;&#xA;         width=&#34;200&#34;&#xA;         height=&#34;200&#34;&#xA;         loading=&#34;lazy&#34;&gt;&lt;/figure&gt;&#xA;  &#xA;&lt;p&gt;Hi,&lt;br&gt;&#xA;my name is Jacopo Barone. I work as an analyst and data scientist for the UK government.&lt;/p&gt;&#xA;&lt;p&gt;Ages ago, I studied psychology and neuroscience. I completed a PhD on neural oscillations in the motor system using Magnetoencephalography (MEG). I currently reside in Cardiff, Wales, but I am originally Italian. I live here happily with my partner and our two goblins.&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>

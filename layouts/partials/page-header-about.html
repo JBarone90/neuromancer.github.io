@@ -1,4 +1,4 @@
-{{ $featured_image := .Params.featured_image | default "/images/default-image.jpg" }}
+{{ $featured_image := .Param "featured_image" | default "images/tribute-moebius.png" }}
 {{ if $featured_image }}
   {{/* Ensure the image URL is correct */}}
   <header class="cover bg-top" style="background-image: url('{{ $featured_image }}'); background-size: cover; background-position: center; height: 500px;">

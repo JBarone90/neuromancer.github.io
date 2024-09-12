@@ -1,8 +1,12 @@
 .profile-image {
-    width: 150px;
-    height: 150px;
-    border-radius: 50%;
-    float: left;
-    margin-right: 35px;
-  }
-  
+  margin-left: 0;
+  text-align: left;
+  max-width: 200px; /* Controls the image size */
+}
+
+.profile-image img {
+  border-radius: 50%; /* Ensures a circular frame */
+  object-fit: cover;  /* Ensures the image fits properly in the frame */
+  width: 100%;        /* Ensures the image respects the max-width of the figure */
+  height: auto;
+}

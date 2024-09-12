@@ -8,9 +8,10 @@ menu:
     weight: 1
 ---
 
+
 ## About Me
 
-{{< profile-image src="/images/profile.jpeg" alt="Jacopo Barone" >}}
+{{< profile-image src="/images/profile.jpeg" alt="Jacopo Barone"  >}}
 
 Hi,  
 my name is Jacopo Barone. I work as an analyst and data scientist for the UK government.

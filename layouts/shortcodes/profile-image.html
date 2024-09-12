@@ -7,7 +7,7 @@
     {{- $src := $u.String -}}
     {{- if not $u.IsAbs -}}
       {{- with or (.Page.Resources.Get $u.Path) (resources.Get $u.Path) -}}
-        {{- $src = (trim .RelPermalink "/") | absURL -}}
+        {{- $src = .RelPermalink -}}
       {{- end -}}
     {{- end -}}
     

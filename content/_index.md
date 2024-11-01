@@ -7,5 +7,3 @@ theme_version: "2.8.2"
 cascade:
   featured_image: "/images/tribute-moebius.png"
 ---
-
-Welcome to my website with some of my work in progress.
